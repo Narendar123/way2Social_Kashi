@@ -1,0 +1,259 @@
+2018-03-05 11:35:12 INFO  TestBase:101 - navigating to :-http://admin.way2social.com/
+2018-03-05 11:36:11 INFO  TestBase:182 - browser closed
+2018-03-05 11:39:38 INFO  TestBase:101 - navigating to :-http://admin.way2social.com/
+2018-03-05 11:40:38 INFO  TestBase:182 - browser closed
+2018-03-05 11:43:33 INFO  TestBase:101 - navigating to :-http://www.way2social.com/
+2018-03-05 11:43:50 INFO  TestBase:182 - browser closed
+2018-03-05 11:47:12 INFO  TestBase:101 - navigating to :-http://www.way2social.com/
+2018-03-05 11:47:24 INFO  TestBase:182 - browser closed
+2018-03-05 12:00:13 INFO  TestBase:101 - navigating to :-http://www.way2social.com/
+2018-03-05 12:00:32 INFO  TestBase:182 - browser closed
+2018-03-05 12:02:24 INFO  TestBase:101 - navigating to :-http://www.way2social.com/
+2018-03-05 12:02:37 INFO  TestBase:182 - browser closed
+2018-03-05 12:12:02 INFO  TestBase:101 - navigating to :-http://www.way2social.com/
+2018-03-05 12:12:12 INFO  TS_001_AdvertiserLogin:25 - =========== Starting verifyLoginWithvalidCredentails Test=============
+2018-03-05 12:12:20 INFO  TS_001_AdvertiserLogin:32 - =========== Finishing verifyLoginWithvalidCredentails Test=============
+2018-03-05 12:32:31 INFO  TestBase:101 - navigating to :-http://www.way2social.com/
+2018-03-05 12:34:27 INFO  TestBase:101 - navigating to :-http://www.way2social.com/
+2018-03-05 12:47:58 INFO  TestBase:101 - navigating to :-http://www.way2social.com/
+2018-03-05 12:50:40 INFO  TestBase:101 - navigating to :-http://www.way2social.com/
+2018-03-05 12:52:32 INFO  TestBase:101 - navigating to :-http://www.way2social.com/
+2018-03-05 12:53:51 INFO  TestBase:101 - navigating to :-http://www.way2social.com/
+2018-03-05 12:55:23 INFO  TestBase:101 - navigating to :-http://www.way2social.com/
+2018-03-05 12:57:25 INFO  TestBase:101 - navigating to :-http://www.way2social.com/
+2018-03-05 13:00:03 INFO  TestBase:101 - navigating to :-http://www.way2social.com/
+2018-03-05 13:04:04 INFO  TestBase:101 - navigating to :-http://www.way2social.com/
+2018-03-05 13:06:33 INFO  TestBase:101 - navigating to :-http://www.way2social.com/
+2018-03-05 13:08:38 INFO  TestBase:101 - navigating to :-http://www.way2social.com/
+2018-03-05 13:09:56 INFO  TestBase:101 - navigating to :-http://www.way2social.com/
+2018-03-05 13:21:14 INFO  TestBase:101 - navigating to :-http://www.way2social.com/
+2018-03-05 13:22:11 INFO  TestBase:101 - navigating to :-http://www.way2social.com/
+2018-03-05 14:59:08 INFO  TestBase:101 - navigating to :-http://www.way2social.com/
+2018-03-05 15:01:27 INFO  TestBase:101 - navigating to :-http://www.way2social.com/
+2018-03-05 15:02:14 INFO  TestBase:101 - navigating to :-http://www.way2social.com/
+2018-03-05 15:03:21 INFO  TestBase:101 - navigating to :-http://www.way2social.com/
+2018-03-05 15:05:41 INFO  TestBase:101 - navigating to :-http://www.way2social.com/
+2018-03-05 15:19:30 INFO  TestBase:101 - navigating to :-http://www.way2social.com/
+2018-03-05 15:19:42 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-05 15:20:03 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-05 15:20:04 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-05 15:20:04 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-05 15:20:05 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-05 15:20:05 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-05 15:20:05 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-05 15:20:06 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-05 15:20:06 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-05 15:26:15 INFO  TestBase:101 - navigating to :-http://www.way2social.com/
+2018-03-05 15:27:59 INFO  TestBase:101 - navigating to :-http://www.way2social.com/
+2018-03-05 15:29:06 INFO  TestBase:101 - navigating to :-http://www.way2social.com/
+2018-03-05 15:31:29 INFO  TestBase:101 - navigating to :-http://www.way2social.com/
+2018-03-05 15:31:39 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-05 15:32:00 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-05 15:32:00 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-05 15:32:01 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-05 15:32:01 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-05 15:32:01 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-05 15:32:02 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-05 15:32:02 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-05 15:32:03 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-05 15:35:25 INFO  TestBase:101 - navigating to :-http://www.way2social.com/
+2018-03-05 15:36:05 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-05 15:42:23 INFO  TestBase:101 - navigating to :-http://www.way2social.com/
+2018-03-05 15:42:34 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-05 15:42:36 INFO  way2social_HomePage:105 - logout is dispalyed and object is:-[[ChromeDriver: chrome on XP (8008a32255574bfca0ccdf23300da41a)] -> xpath: .//*[@id='popupContainer']/div[1]/div[1]/div[2]/div/div/div[2]/div/button[2]]
+2018-03-05 15:42:37 INFO  TS_002_VerifyLoginWithDifferntInfluencer:51 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2018-03-05 15:42:38 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-05 15:43:00 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-05 15:43:00 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-05 15:43:01 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-05 15:43:01 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-05 15:43:01 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-05 15:43:02 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-05 15:43:02 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-05 15:47:20 INFO  TestBase:101 - navigating to :-http://www.way2social.com/
+2018-03-05 15:47:46 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-05 15:48:45 INFO  TestBase:101 - navigating to :-http://www.way2social.com/
+2018-03-05 15:48:58 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-05 15:50:18 INFO  TestBase:101 - navigating to :-http://www.way2social.com/
+2018-03-05 15:50:30 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-05 15:58:57 INFO  TestBase:101 - navigating to :-http://www.way2social.com/
+2018-03-05 15:59:08 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-05 15:59:10 INFO  way2social_HomePage:105 - logout is dispalyed and object is:-[[ChromeDriver: chrome on XP (216e1a121713f547cb548db42b3107af)] -> xpath: .//*[@id='popupContainer']/div[1]/div[1]/div[2]/div/div/div[2]/div/button[2]]
+2018-03-05 15:59:11 INFO  TS_002_VerifyLoginWithDifferntInfluencer:51 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2018-03-05 15:59:12 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-05 15:59:33 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-05 15:59:34 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-05 15:59:34 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-05 15:59:35 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-05 15:59:35 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-05 15:59:36 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-05 15:59:36 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-05 16:02:37 INFO  TestBase:101 - navigating to :-http://www.way2social.com/
+2018-03-05 16:04:12 INFO  TestBase:101 - navigating to :-http://www.way2social.com/
+2018-03-05 16:32:10 INFO  TestBase:101 - navigating to :-http://www.way2social.com/
+2018-03-05 16:32:43 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-05 16:33:05 INFO  way2social_HomePage:105 - logout is dispalyed and object is:-[[ChromeDriver: chrome on XP (114028bc550185e2ddc4a1fbc6923e5d)] -> xpath: .//*[@id='popupContainer']/div[1]/div[1]/div[2]/div/div/div[2]/div/button[2]]
+2018-03-05 16:33:21 INFO  TS_002_VerifyLoginWithDifferntInfluencer:51 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2018-03-05 16:35:27 INFO  TestBase:101 - navigating to :-http://www.way2social.com/
+2018-03-05 16:35:39 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-05 16:35:41 INFO  way2social_HomePage:105 - logout is dispalyed and object is:-[[ChromeDriver: chrome on XP (9df71a9ce5c6530f07b032c2a50dc55b)] -> xpath: .//*[@id='popupContainer']/div[1]/div[1]/div[2]/div/div/div[2]/div/button[2]]
+2018-03-05 16:35:44 INFO  TS_002_VerifyLoginWithDifferntInfluencer:51 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2018-03-05 16:35:44 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-05 16:36:05 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-05 16:36:06 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-05 16:36:06 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-05 16:36:06 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-05 16:36:07 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-05 16:36:07 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-05 16:36:07 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-06 14:52:29 INFO  TestBase:101 - navigating to :-http://www.way2social.com/
+2018-03-06 14:52:56 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-06 14:53:12 INFO  way2social_HomePage:105 - logout is dispalyed and object is:-[[ChromeDriver: chrome on XP (91b5743ad4079131e289af3f43d6ffcc)] -> xpath: .//*[@id='popupContainer']/div[1]/div[1]/div[2]/div/div/div[2]/div/button[2]]
+2018-03-06 14:53:44 INFO  TS_002_VerifyLoginWithDifferntInfluencer:51 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2018-03-06 14:53:44 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-06 14:54:06 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-06 14:54:07 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-06 14:54:07 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-06 14:54:08 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-06 14:54:08 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-06 14:54:09 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-06 14:54:09 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-06 14:56:39 INFO  TestBase:101 - navigating to :-http://www.way2social.com/
+2018-03-06 14:57:08 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-06 14:57:29 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-06 14:57:49 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-06 14:58:10 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-06 14:58:30 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 08:56:18 INFO  TestBase:101 - navigating to :-http://www.way2social.com/
+2018-03-07 08:57:04 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 08:57:23 INFO  way2social_HomePage:105 - logout is dispalyed and object is:-[[ChromeDriver: chrome on XP (44b86e2bb4ed5eff8cc66da8efb1aed9)] -> xpath: .//*[@id='popupContainer']/div[1]/div[1]/div[2]/div/div/div[2]/div/button[2]]
+2018-03-07 08:57:27 INFO  TS_002_VerifyLoginWithDifferntInfluencer:51 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2018-03-07 08:57:27 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 08:57:48 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 08:57:49 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 08:57:50 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 08:57:50 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 08:57:51 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 08:57:51 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 08:57:52 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:01:25 INFO  TestBase:101 - navigating to :-http://www.way2social.com/
+2018-03-07 09:02:03 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:02:06 INFO  way2social_HomePage:105 - logout is dispalyed and object is:-[[ChromeDriver: chrome on XP (23463bce7816dabf20e357e52c966438)] -> xpath: .//*[@id='popupContainer']/div[1]/div[1]/div[2]/div/div/div[2]/div/button[2]]
+2018-03-07 09:02:12 INFO  TS_002_VerifyLoginWithDifferntInfluencer:51 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2018-03-07 09:02:15 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:02:36 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:02:36 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:02:36 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:02:36 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:02:36 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:02:36 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:02:36 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:04:17 INFO  TestBase:101 - navigating to :-http://www.way2social.com/
+2018-03-07 09:04:47 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:04:56 INFO  way2social_HomePage:105 - logout is dispalyed and object is:-[[ChromeDriver: chrome on XP (d7775f93e0acde28e1f54674d125287b)] -> xpath: .//*[@id='popupContainer']/div[1]/div[1]/div[2]/div/div/div[2]/div/button[2]]
+2018-03-07 09:05:01 INFO  TS_002_VerifyLoginWithDifferntInfluencer:51 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2018-03-07 09:05:03 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:05:24 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:05:24 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:05:24 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:05:24 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:05:24 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:05:24 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:05:24 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:07:32 INFO  TestBase:101 - navigating to :-http://www.way2social.com/
+2018-03-07 09:07:46 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:07:49 INFO  way2social_HomePage:105 - logout is dispalyed and object is:-[[ChromeDriver: chrome on XP (8c0f1d2922a877c35de3c4f9dbe0e25b)] -> xpath: .//*[@id='popupContainer']/div[1]/div[1]/div[2]/div/div/div[2]/div/button[2]]
+2018-03-07 09:07:53 INFO  TS_002_VerifyLoginWithDifferntInfluencer:51 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2018-03-07 09:07:53 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:08:14 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:08:14 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:08:14 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:08:14 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:08:14 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:08:15 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:08:15 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:09:16 INFO  TestBase:101 - navigating to :-http://www.way2social.com/
+2018-03-07 09:10:02 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:10:56 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:11:04 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:11:04 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:11:04 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:11:04 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:11:04 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:11:04 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:11:04 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:12:19 INFO  TestBase:101 - navigating to :-http://www.way2social.com/
+2018-03-07 09:12:38 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:12:51 INFO  way2social_HomePage:105 - logout is dispalyed and object is:-[[ChromeDriver: chrome on XP (0e3e6794bb96edc5e1927dc1312eb84d)] -> xpath: .//*[@id='popupContainer']/div[1]/div[1]/div[2]/div/div/div[2]/div/button[2]]
+2018-03-07 09:12:56 INFO  TS_002_VerifyLoginWithDifferntInfluencer:51 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2018-03-07 09:12:58 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:13:19 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:13:20 INFO  way2social_HomePage:105 - logout is dispalyed and object is:-[[ChromeDriver: chrome on XP (0e3e6794bb96edc5e1927dc1312eb84d)] -> xpath: .//*[@id='popupContainer']/div[1]/div[1]/div[2]/div/div/div[2]/div/button[2]]
+2018-03-07 09:13:23 INFO  TS_002_VerifyLoginWithDifferntInfluencer:51 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2018-03-07 09:13:25 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:13:26 INFO  way2social_HomePage:105 - logout is dispalyed and object is:-[[ChromeDriver: chrome on XP (0e3e6794bb96edc5e1927dc1312eb84d)] -> xpath: .//*[@id='popupContainer']/div[1]/div[1]/div[2]/div/div/div[2]/div/button[2]]
+2018-03-07 09:13:31 INFO  TS_002_VerifyLoginWithDifferntInfluencer:51 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2018-03-07 09:13:33 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:13:34 INFO  way2social_HomePage:105 - logout is dispalyed and object is:-[[ChromeDriver: chrome on XP (0e3e6794bb96edc5e1927dc1312eb84d)] -> xpath: .//*[@id='popupContainer']/div[1]/div[1]/div[2]/div/div/div[2]/div/button[2]]
+2018-03-07 09:13:37 INFO  TS_002_VerifyLoginWithDifferntInfluencer:51 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2018-03-07 09:13:39 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:14:00 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:14:00 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:14:00 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:15:51 INFO  TestBase:101 - navigating to :-http://www.way2social.com/
+2018-03-07 09:16:09 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:16:18 INFO  way2social_HomePage:105 - logout is dispalyed and object is:-[[ChromeDriver: chrome on XP (450fc20bdc6c42fe6888ffff87b88fcb)] -> xpath: .//*[@id='popupContainer']/div[1]/div[1]/div[2]/div/div/div[2]/div/button[2]]
+2018-03-07 09:16:23 INFO  TS_002_VerifyLoginWithDifferntInfluencer:51 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2018-03-07 09:16:23 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:16:46 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:16:46 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:16:47 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:16:47 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:16:48 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:16:48 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:16:48 INFO  TS_002_VerifyLoginWithDifferntInfluencer:43 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:29:17 INFO  TestBase:101 - navigating to :-http://www.way2social.com/
+2018-03-07 09:29:31 INFO  TS_002_VerifyLoginWithDifferntInfluencer:45 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:29:34 INFO  way2social_HomePage:105 - logout is dispalyed and object is:-[[ChromeDriver: chrome on XP (2d6975a6ceabe97a19715afd90f51db7)] -> xpath: .//*[@id='popupContainer']/div[1]/div[1]/div[2]/div/div/div[2]/div/button[2]]
+2018-03-07 09:29:38 INFO  TS_002_VerifyLoginWithDifferntInfluencer:53 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2018-03-07 09:29:38 INFO  TS_002_VerifyLoginWithDifferntInfluencer:45 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:30:00 INFO  TS_002_VerifyLoginWithDifferntInfluencer:45 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:30:00 INFO  TS_002_VerifyLoginWithDifferntInfluencer:45 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:30:00 INFO  TS_002_VerifyLoginWithDifferntInfluencer:45 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:30:01 INFO  TS_002_VerifyLoginWithDifferntInfluencer:45 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:30:01 INFO  TS_002_VerifyLoginWithDifferntInfluencer:45 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:30:02 INFO  TS_002_VerifyLoginWithDifferntInfluencer:45 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:30:02 INFO  TS_002_VerifyLoginWithDifferntInfluencer:45 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:45:20 INFO  TestBase:101 - navigating to :-http://www.way2social.com/
+2018-03-07 09:45:32 INFO  TS_002_VerifyLoginWithDifferntInfluencer:45 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:45:35 INFO  way2social_HomePage:105 - logout is dispalyed and object is:-[[ChromeDriver: chrome on XP (267a826874f73ba67c05fe3db8625c4f)] -> xpath: .//*[@id='popupContainer']/div[1]/div[1]/div[2]/div/div/div[2]/div/button[2]]
+2018-03-07 09:45:38 INFO  TS_002_VerifyLoginWithDifferntInfluencer:45 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:46:00 INFO  TS_002_VerifyLoginWithDifferntInfluencer:54 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2018-03-07 09:46:00 INFO  TS_002_VerifyLoginWithDifferntInfluencer:45 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:46:00 INFO  TS_002_VerifyLoginWithDifferntInfluencer:45 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:46:01 INFO  TS_002_VerifyLoginWithDifferntInfluencer:45 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:46:01 INFO  TS_002_VerifyLoginWithDifferntInfluencer:45 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:46:01 INFO  TS_002_VerifyLoginWithDifferntInfluencer:45 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:46:02 INFO  TS_002_VerifyLoginWithDifferntInfluencer:45 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-07 09:46:02 INFO  TS_002_VerifyLoginWithDifferntInfluencer:45 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-19 23:30:48 INFO  TestBase:101 - navigating to :-http://www.way2social.com/
+2018-03-19 23:30:59 INFO  TS_002_VerifyLoginWithDifferntInfluencer:45 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-19 23:31:00 INFO  TS_002_VerifyLoginWithDifferntInfluencer:45 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-19 23:31:01 INFO  TS_002_VerifyLoginWithDifferntInfluencer:45 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-19 23:31:01 INFO  TS_002_VerifyLoginWithDifferntInfluencer:45 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-19 23:31:01 INFO  TS_002_VerifyLoginWithDifferntInfluencer:45 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-19 23:31:02 INFO  TS_002_VerifyLoginWithDifferntInfluencer:45 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-19 23:31:02 INFO  TS_002_VerifyLoginWithDifferntInfluencer:45 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-19 23:31:02 INFO  TS_002_VerifyLoginWithDifferntInfluencer:45 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-19 23:31:03 INFO  TS_002_VerifyLoginWithDifferntInfluencer:45 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-19 23:52:51 INFO  TestBase:101 - navigating to :-http://www.way2social.com/
+2018-03-19 23:52:58 INFO  TS_002_VerifyLoginWithDifferntInfluencer:45 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-19 23:52:58 INFO  TS_002_VerifyLoginWithDifferntInfluencer:45 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-19 23:52:59 INFO  TS_002_VerifyLoginWithDifferntInfluencer:45 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-19 23:52:59 INFO  TS_002_VerifyLoginWithDifferntInfluencer:45 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-19 23:53:00 INFO  TS_002_VerifyLoginWithDifferntInfluencer:45 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-19 23:53:00 INFO  TS_002_VerifyLoginWithDifferntInfluencer:45 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-19 23:53:00 INFO  TS_002_VerifyLoginWithDifferntInfluencer:45 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-19 23:53:01 INFO  TS_002_VerifyLoginWithDifferntInfluencer:45 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-19 23:53:01 INFO  TS_002_VerifyLoginWithDifferntInfluencer:45 - ================Starting VerifyLoginWithDifferntRecords Test=============
+2018-03-26 21:27:22 INFO  TestBase:101 - navigating to :-http://www.way2social.com/
